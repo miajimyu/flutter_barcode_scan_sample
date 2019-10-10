@@ -1,5 +1,10 @@
 # flutter_barcode_scan
 
+## Screenshots
+
+<img src="./screenshots/barcode_scan.gif" height="400" alt="Screenshot"/>
+
+
 ## Docs
 
 [barcode_scan | Flutter Package](https://pub.dev/packages/barcode_scan)
