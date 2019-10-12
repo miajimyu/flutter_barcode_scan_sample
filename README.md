@@ -1,4 +1,4 @@
-# flutter_barcode_scan
+# flutter_barcode_scan_sample
 
 ## Screenshots
 
